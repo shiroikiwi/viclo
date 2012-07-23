@@ -14,8 +14,9 @@
 $set
 
 # Command Line History (newest to oldest):
-:wq
 :q
+:Q
+:wq
 :w
 :q!
 :%s/set/set/cg
@@ -45,18 +46,22 @@ $set
 	webapps/
 
 # File marks:
-'0  3  0  ~/viclo/guni.sh
-'1  14  52  ~/viclo/guni.sh
-'2  5  51  /etc/supervisor/conf.d/guni.conf
-'3  4  27  /etc/supervisor/conf.d/guni.conf
-'4  1  0  /etc/supervisor/conf.d/guni.conf
-'5  6  62  /etc/supervisor/conf.d/guni.conf
-'6  1  0  ~/viclo/guni.sh
-'7  7  11  ~/viclo/guni.sh
-'8  11  0  ~/viclo/guni.sh
-'9  14  55  ~/viclo/guni.sh
+'0  1  0  ~/viclo/viclo/settings.py
+'1  14  42  ~/viclo/viclo/settings.py
+'2  15  24  ~/viclo/viclo/settings.py
+'3  137  0  ~/viclo/viclo/settings.py
+'4  3  0  ~/viclo/guni.sh
+'5  14  52  ~/viclo/guni.sh
+'6  5  51  /etc/supervisor/conf.d/guni.conf
+'7  4  27  /etc/supervisor/conf.d/guni.conf
+'8  1  0  /etc/supervisor/conf.d/guni.conf
+'9  6  62  /etc/supervisor/conf.d/guni.conf
 
 # Jumplist (newest first):
+-'  1  0  ~/viclo/viclo/settings.py
+-'  14  42  ~/viclo/viclo/settings.py
+-'  15  24  ~/viclo/viclo/settings.py
+-'  137  0  ~/viclo/viclo/settings.py
 -'  3  0  ~/viclo/guni.sh
 -'  1  0  ~/viclo/guni.sh
 -'  14  52  ~/viclo/guni.sh
@@ -76,8 +81,92 @@ $set
 -'  1  0  /etc/supervisor/conf.d/guni.conf
 -'  4  27  /etc/supervisor/conf.d/guni.conf
 -'  6  62  /etc/supervisor/conf.d/guni.conf
+-'  3  0  ~/viclo/guni.sh
+-'  1  0  ~/viclo/guni.sh
+-'  14  52  ~/viclo/guni.sh
+-'  5  51  /etc/supervisor/conf.d/guni.conf
+-'  1  0  /etc/supervisor/conf.d/guni.conf
+-'  4  27  /etc/supervisor/conf.d/guni.conf
+-'  6  62  /etc/supervisor/conf.d/guni.conf
+-'  7  11  ~/viclo/guni.sh
+-'  9  0  ~/viclo/guni.sh
+-'  10  9  ~/viclo/guni.sh
+-'  11  10  ~/viclo/guni.sh
+-'  6  35  ~/viclo/guni.sh
+-'  13  3  ~/viclo/guni.sh
+-'  8  0  ~/viclo/guni.sh
+-'  12  1  ~/viclo/guni.sh
+-'  5  51  /etc/supervisor/conf.d/guni.conf
+-'  1  0  /etc/supervisor/conf.d/guni.conf
+-'  4  27  /etc/supervisor/conf.d/guni.conf
+-'  6  62  /etc/supervisor/conf.d/guni.conf
+-'  3  0  ~/viclo/guni.sh
+-'  1  0  ~/viclo/guni.sh
+-'  14  52  ~/viclo/guni.sh
+-'  5  51  /etc/supervisor/conf.d/guni.conf
+-'  1  0  /etc/supervisor/conf.d/guni.conf
+-'  4  27  /etc/supervisor/conf.d/guni.conf
+-'  6  62  /etc/supervisor/conf.d/guni.conf
+-'  7  11  ~/viclo/guni.sh
+-'  9  0  ~/viclo/guni.sh
+-'  10  9  ~/viclo/guni.sh
+-'  11  10  ~/viclo/guni.sh
+-'  6  35  ~/viclo/guni.sh
+-'  13  3  ~/viclo/guni.sh
+-'  8  0  ~/viclo/guni.sh
+-'  12  1  ~/viclo/guni.sh
+-'  5  51  /etc/supervisor/conf.d/guni.conf
+-'  1  0  /etc/supervisor/conf.d/guni.conf
+-'  4  27  /etc/supervisor/conf.d/guni.conf
+-'  6  62  /etc/supervisor/conf.d/guni.conf
+-'  3  0  ~/viclo/guni.sh
+-'  1  0  ~/viclo/guni.sh
+-'  14  52  ~/viclo/guni.sh
+-'  5  51  /etc/supervisor/conf.d/guni.conf
+-'  1  0  /etc/supervisor/conf.d/guni.conf
+-'  4  27  /etc/supervisor/conf.d/guni.conf
+-'  6  62  /etc/supervisor/conf.d/guni.conf
+-'  7  11  ~/viclo/guni.sh
+-'  9  0  ~/viclo/guni.sh
+-'  10  9  ~/viclo/guni.sh
+-'  11  10  ~/viclo/guni.sh
+-'  6  35  ~/viclo/guni.sh
+-'  13  3  ~/viclo/guni.sh
+-'  8  0  ~/viclo/guni.sh
+-'  12  1  ~/viclo/guni.sh
+-'  5  51  /etc/supervisor/conf.d/guni.conf
+-'  1  0  /etc/supervisor/conf.d/guni.conf
+-'  4  27  /etc/supervisor/conf.d/guni.conf
+-'  6  62  /etc/supervisor/conf.d/guni.conf
+-'  3  0  ~/viclo/guni.sh
+-'  1  0  ~/viclo/guni.sh
+-'  14  52  ~/viclo/guni.sh
+-'  5  51  /etc/supervisor/conf.d/guni.conf
+-'  1  0  /etc/supervisor/conf.d/guni.conf
+-'  4  27  /etc/supervisor/conf.d/guni.conf
+-'  6  62  /etc/supervisor/conf.d/guni.conf
+-'  7  11  ~/viclo/guni.sh
+-'  9  0  ~/viclo/guni.sh
+-'  10  9  ~/viclo/guni.sh
+-'  11  10  ~/viclo/guni.sh
+-'  6  35  ~/viclo/guni.sh
+-'  13  3  ~/viclo/guni.sh
+-'  8  0  ~/viclo/guni.sh
+-'  12  1  ~/viclo/guni.sh
 
 # History of marks within files (newest to oldest):
+
+> ~/viclo/viclo/settings.py
+	"	1	0
+	^	14	43
+	.	14	19
+	+	125	5
+	+	14	18
+	+	15	23
+	+	16	20
+	+	17	33
+	+	15	17
+	+	14	19
 
 > ~/viclo/guni.sh
 	"	3	0
