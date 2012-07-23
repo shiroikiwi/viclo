@@ -22,3 +22,61 @@
 2012-07-23 00:12:21,599 DEBUG virtualenvwrapper.hook_loader Saving sourcable initialize hooks to /tmp/virtualenvwrapper-initialize-hook-CmqJVHxSoW
 2012-07-23 17:21:24,537 DEBUG virtualenvwrapper.hook_loader Running initialize hooks
 2012-07-23 17:21:24,545 DEBUG virtualenvwrapper.hook_loader Saving sourcable initialize hooks to /tmp/virtualenvwrapper-initialize-hook-Qoj5OHzn5h
+2012-07-23 17:24:49,241 DEBUG virtualenvwrapper.hook_loader Running pre_activate hooks
+2012-07-23 17:24:49,245 DEBUG virtualenvwrapper.user_scripts pre_activate
+2012-07-23 17:24:49,245 DEBUG virtualenvwrapper.user_scripts running ['/home/ubuntu/.virtualenvs/preactivate', 'viclo_env']
+2012-07-23 17:24:49,251 DEBUG virtualenvwrapper.user_scripts running ['/home/ubuntu/.virtualenvs/viclo_env/bin/preactivate', 'viclo_env']
+2012-07-23 17:24:49,262 DEBUG virtualenvwrapper.hook_loader Saving sourcable pre_activate hooks to /tmp/virtualenvwrapper-pre_activate-hook-6ORjZDeLMq
+2012-07-23 17:24:49,402 DEBUG virtualenvwrapper.hook_loader Running post_activate hooks
+2012-07-23 17:24:49,407 DEBUG virtualenvwrapper.hook_loader Saving sourcable post_activate hooks to /tmp/virtualenvwrapper-post_activate-hook-D5x5ZOZaN8
+2012-07-23 17:24:49,410 DEBUG virtualenvwrapper.user_scripts post_activate
+2012-07-23 17:36:02,687 DEBUG virtualenvwrapper.hook_loader Running pre_deactivate hooks
+2012-07-23 17:36:02,691 DEBUG virtualenvwrapper.hook_loader Saving sourcable pre_deactivate hooks to /tmp/virtualenvwrapper-pre_deactivate-hook-wk4JGF3tF1
+2012-07-23 17:36:02,694 DEBUG virtualenvwrapper.user_scripts pre_deactivate
+2012-07-23 17:36:02,815 DEBUG virtualenvwrapper.hook_loader Running post_deactivate hooks
+2012-07-23 17:36:02,820 DEBUG virtualenvwrapper.hook_loader Saving sourcable post_deactivate hooks to /tmp/virtualenvwrapper-post_deactivate-hook-7sQZEh8o6z
+2012-07-23 17:36:02,823 DEBUG virtualenvwrapper.user_scripts post_deactivate
+2012-07-23 17:36:07,034 DEBUG virtualenvwrapper.hook_loader Running initialize hooks
+2012-07-23 17:36:07,042 DEBUG virtualenvwrapper.hook_loader Saving sourcable initialize hooks to /tmp/virtualenvwrapper-initialize-hook-y8VYqXGZBs
+2012-07-23 17:36:12,956 DEBUG virtualenvwrapper.hook_loader Running initialize hooks
+2012-07-23 17:36:12,964 DEBUG virtualenvwrapper.hook_loader Saving sourcable initialize hooks to /tmp/virtualenvwrapper-initialize-hook-awNarF092P
+2012-07-23 17:37:37,556 DEBUG virtualenvwrapper.hook_loader Running initialize hooks
+2012-07-23 17:37:37,563 DEBUG virtualenvwrapper.hook_loader Saving sourcable initialize hooks to /tmp/virtualenvwrapper-initialize-hook-t5FjBYmFJ9
+2012-07-23 17:45:58,799 DEBUG virtualenvwrapper.hook_loader Running initialize hooks
+2012-07-23 17:45:58,807 DEBUG virtualenvwrapper.hook_loader Saving sourcable initialize hooks to /tmp/virtualenvwrapper-initialize-hook-DwPMcHyKJw
+2012-07-23 17:45:58,904 DEBUG virtualenvwrapper.hook_loader Running pre_activate hooks
+2012-07-23 17:45:58,909 DEBUG virtualenvwrapper.user_scripts pre_activate
+2012-07-23 17:45:58,909 DEBUG virtualenvwrapper.user_scripts running ['/home/ubuntu/.virtualenvs/preactivate', 'viclo_env']
+2012-07-23 17:45:58,916 DEBUG virtualenvwrapper.user_scripts running ['/home/ubuntu/.virtualenvs/viclo_env/bin/preactivate', 'viclo_env']
+2012-07-23 17:45:58,926 DEBUG virtualenvwrapper.hook_loader Saving sourcable pre_activate hooks to /tmp/virtualenvwrapper-pre_activate-hook-VoZjiV7glC
+2012-07-23 17:45:59,037 DEBUG virtualenvwrapper.hook_loader Running post_activate hooks
+2012-07-23 17:45:59,041 DEBUG virtualenvwrapper.hook_loader Saving sourcable post_activate hooks to /tmp/virtualenvwrapper-post_activate-hook-T7dTwXbQZX
+2012-07-23 17:45:59,044 DEBUG virtualenvwrapper.user_scripts post_activate
+2012-07-23 17:46:47,317 DEBUG virtualenvwrapper.hook_loader Running initialize hooks
+2012-07-23 17:46:47,326 DEBUG virtualenvwrapper.hook_loader Saving sourcable initialize hooks to /tmp/virtualenvwrapper-initialize-hook-AwSZtRHbAH
+2012-07-23 17:46:47,429 DEBUG virtualenvwrapper.hook_loader Running pre_activate hooks
+2012-07-23 17:46:47,434 DEBUG virtualenvwrapper.user_scripts pre_activate
+2012-07-23 17:46:47,434 DEBUG virtualenvwrapper.user_scripts running ['/home/ubuntu/.virtualenvs/preactivate', 'viclo_env']
+2012-07-23 17:46:47,442 DEBUG virtualenvwrapper.user_scripts running ['/home/ubuntu/.virtualenvs/viclo_env/bin/preactivate', 'viclo_env']
+2012-07-23 17:46:47,454 DEBUG virtualenvwrapper.hook_loader Saving sourcable pre_activate hooks to /tmp/virtualenvwrapper-pre_activate-hook-7kKXgqnZua
+2012-07-23 17:46:47,573 DEBUG virtualenvwrapper.hook_loader Running post_activate hooks
+2012-07-23 17:46:47,577 DEBUG virtualenvwrapper.hook_loader Saving sourcable post_activate hooks to /tmp/virtualenvwrapper-post_activate-hook-M8UaUkXvcD
+2012-07-23 17:46:47,580 DEBUG virtualenvwrapper.user_scripts post_activate
+2012-07-23 17:51:05,942 DEBUG virtualenvwrapper.hook_loader Running initialize hooks
+2012-07-23 17:51:05,951 DEBUG virtualenvwrapper.hook_loader Saving sourcable initialize hooks to /tmp/virtualenvwrapper-initialize-hook-vQfjZJDO2T
+2012-07-23 17:51:06,063 DEBUG virtualenvwrapper.hook_loader Running pre_activate hooks
+2012-07-23 17:51:06,068 DEBUG virtualenvwrapper.user_scripts pre_activate
+2012-07-23 17:51:06,068 DEBUG virtualenvwrapper.user_scripts running ['/home/ubuntu/.virtualenvs/preactivate', 'viclo_env']
+2012-07-23 17:51:06,074 DEBUG virtualenvwrapper.user_scripts running ['/home/ubuntu/.virtualenvs/viclo_env/bin/preactivate', 'viclo_env']
+2012-07-23 17:51:06,085 DEBUG virtualenvwrapper.hook_loader Saving sourcable pre_activate hooks to /tmp/virtualenvwrapper-pre_activate-hook-wPXF8cd4BA
+2012-07-23 17:51:06,203 DEBUG virtualenvwrapper.hook_loader Running post_activate hooks
+2012-07-23 17:51:06,207 DEBUG virtualenvwrapper.hook_loader Saving sourcable post_activate hooks to /tmp/virtualenvwrapper-post_activate-hook-M5gbMx9LPn
+2012-07-23 17:51:06,210 DEBUG virtualenvwrapper.user_scripts post_activate
+2012-07-23 18:36:13,312 DEBUG virtualenvwrapper.hook_loader Running pre_activate hooks
+2012-07-23 18:36:13,316 DEBUG virtualenvwrapper.user_scripts pre_activate
+2012-07-23 18:36:13,316 DEBUG virtualenvwrapper.user_scripts running ['/home/ubuntu/.virtualenvs/preactivate', 'viclo_env']
+2012-07-23 18:36:13,323 DEBUG virtualenvwrapper.user_scripts running ['/home/ubuntu/.virtualenvs/viclo_env/bin/preactivate', 'viclo_env']
+2012-07-23 18:36:13,333 DEBUG virtualenvwrapper.hook_loader Saving sourcable pre_activate hooks to /tmp/virtualenvwrapper-pre_activate-hook-iIoawC3LEz
+2012-07-23 18:36:13,472 DEBUG virtualenvwrapper.hook_loader Running post_activate hooks
+2012-07-23 18:36:13,477 DEBUG virtualenvwrapper.hook_loader Saving sourcable post_activate hooks to /tmp/virtualenvwrapper-post_activate-hook-KOEOJ6NIjP
+2012-07-23 18:36:13,480 DEBUG virtualenvwrapper.user_scripts post_activate
