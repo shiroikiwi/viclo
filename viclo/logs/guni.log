@@ -1,0 +1,69 @@
+2012-07-20 02:03:20 [31879] [INFO] Starting gunicorn 0.14.5
+2012-07-20 02:03:20 [31879] [DEBUG] Arbiter booted
+2012-07-20 02:03:20 [31879] [INFO] Listening at: http://0.0.0.0:8000 (31879)
+2012-07-20 02:03:20 [31879] [INFO] Using worker: sync
+2012-07-20 02:03:20 [31884] [INFO] Booting worker with pid: 31884
+2012-07-20 02:03:21 [31885] [INFO] Booting worker with pid: 31885
+2012-07-19 21:05:28 [31885] [INFO] Worker exiting (pid: 31885)
+2012-07-19 21:05:28 [31884] [INFO] Worker exiting (pid: 31884)
+2012-07-20 02:05:28 [31879] [INFO] Handling signal: int
+2012-07-20 02:05:28 [31879] [INFO] Shutting down: Master
+2012-07-20 02:05:43 [31930] [INFO] Starting gunicorn 0.14.5
+2012-07-20 02:05:43 [31930] [DEBUG] Arbiter booted
+2012-07-20 02:05:43 [31930] [INFO] Listening at: http://0.0.0.0:8000 (31930)
+2012-07-20 02:05:43 [31930] [INFO] Using worker: sync
+2012-07-20 02:05:43 [31934] [INFO] Booting worker with pid: 31934
+2012-07-20 02:05:43 [31935] [INFO] Booting worker with pid: 31935
+2012-07-19 21:07:28 [31935] [INFO] Worker exiting (pid: 31935)
+2012-07-19 21:07:28 [31934] [INFO] Worker exiting (pid: 31934)
+2012-07-20 02:07:28 [31930] [INFO] Handling signal: int
+2012-07-20 02:07:28 [31930] [INFO] Shutting down: Master
+2012-07-23 17:32:27 [6534] [INFO] Starting gunicorn 0.14.5
+2012-07-23 17:32:27 [6534] [ERROR] Retrying in 1 second.
+2012-07-23 17:32:28 [6534] [ERROR] Retrying in 1 second.
+2012-07-23 17:32:29 [6534] [ERROR] Retrying in 1 second.
+2012-07-23 17:32:30 [6534] [ERROR] Retrying in 1 second.
+2012-07-23 17:32:31 [6534] [ERROR] Retrying in 1 second.
+2012-07-23 17:32:32 [6534] [ERROR] Can't connect to ('0.0.0.0.0', 8000)
+2012-07-23 17:33:21 [6553] [INFO] Starting gunicorn 0.14.5
+2012-07-23 17:33:21 [6553] [DEBUG] Arbiter booted
+2012-07-23 17:33:21 [6553] [INFO] Listening at: http://0.0.0.0:8000 (6553)
+2012-07-23 17:33:21 [6553] [INFO] Using worker: sync
+2012-07-23 17:33:21 [6556] [INFO] Booting worker with pid: 6556
+2012-07-23 17:33:21 [6557] [INFO] Booting worker with pid: 6557
+2012-07-23 12:33:48 [6556] [DEBUG] GET /
+2012-07-23 12:33:49 [6557] [DEBUG] GET /favicon.ico
+2012-07-23 12:33:56 [6556] [INFO] Worker exiting (pid: 6556)
+2012-07-23 17:33:56 [6553] [INFO] Handling signal: int
+2012-07-23 12:33:56 [6557] [INFO] Worker exiting (pid: 6557)
+2012-07-23 17:33:56 [6553] [INFO] Shutting down: Master
+2012-07-23 17:45:59 [6692] [INFO] Starting gunicorn 0.14.5
+2012-07-23 17:45:59 [6692] [DEBUG] Arbiter booted
+2012-07-23 17:45:59 [6692] [INFO] Listening at: http://0.0.0.0:8000 (6692)
+2012-07-23 17:45:59 [6692] [INFO] Using worker: sync
+2012-07-23 17:45:59 [6729] [INFO] Booting worker with pid: 6729
+2012-07-23 17:45:59 [6730] [INFO] Booting worker with pid: 6730
+2012-07-23 12:46:18 [6730] [INFO] Worker exiting (pid: 6730)
+2012-07-23 17:46:18 [6692] [INFO] Handling signal: int
+2012-07-23 12:46:18 [6729] [INFO] Worker exiting (pid: 6729)
+2012-07-23 17:46:18 [6692] [INFO] Shutting down: Master
+2012-07-23 17:46:47 [6747] [INFO] Starting gunicorn 0.14.5
+2012-07-23 17:46:47 [6747] [DEBUG] Arbiter booted
+2012-07-23 17:46:47 [6747] [INFO] Listening at: http://0.0.0.0:8000 (6747)
+2012-07-23 17:46:47 [6747] [INFO] Using worker: sync
+2012-07-23 17:46:47 [6784] [INFO] Booting worker with pid: 6784
+2012-07-23 17:46:47 [6785] [INFO] Booting worker with pid: 6785
+2012-07-23 17:46:54 [6747] [INFO] Handling signal: int
+2012-07-23 12:46:54 [6785] [INFO] Worker exiting (pid: 6785)
+2012-07-23 12:46:54 [6784] [INFO] Worker exiting (pid: 6784)
+2012-07-23 17:46:54 [6747] [INFO] Shutting down: Master
+2012-07-23 17:51:06 [6797] [INFO] Starting gunicorn 0.14.5
+2012-07-23 17:51:06 [6797] [DEBUG] Arbiter booted
+2012-07-23 17:51:06 [6797] [INFO] Listening at: http://0.0.0.0:8000 (6797)
+2012-07-23 17:51:06 [6797] [INFO] Using worker: sync
+2012-07-23 17:51:06 [6834] [INFO] Booting worker with pid: 6834
+2012-07-23 17:51:06 [6835] [INFO] Booting worker with pid: 6835
+2012-07-23 12:51:52 [6835] [DEBUG] GET /
+2012-07-23 12:51:54 [6834] [DEBUG] GET /favicon.ico
+2012-07-23 12:55:47 [6834] [DEBUG] GET /
+2012-07-23 12:55:49 [6835] [DEBUG] GET /favicon.ico
