@@ -14,9 +14,9 @@
 $set
 
 # Command Line History (newest to oldest):
+:wq
 :q
 :Q
-:wq
 :w
 :q!
 :%s/set/set/cg
@@ -32,36 +32,48 @@ $set
 # Input Line History (newest to oldest):
 
 # Registers:
-"1	LINE	0
-	/etc/supervisor/conf.d/guni.conf
+""1	LINE	0
+	
 "2	LINE	0
-	asdfl asdf secondword
+	    votes = models.IntegerField()
 "3	LINE	0
-	asdfl asdf secondword
+	    choice_text = models.CharField(max_length=200)
 "4	LINE	0
-	#testing
+	    poll = models.ForeignKey(Poll)
 "5	LINE	0
-	#testing
-""-	CHAR	0
+	class Choice(models.Model):
+"6	LINE	0
+	
+"7	LINE	0
+	    pub_date = models.DateTimeField('date published')
+"8	LINE	0
+	    question = models.CharField(max_length=200)
+"9	LINE	0
+	class Poll(models.Model):
+"-	CHAR	0
 	webapps/
 
 # File marks:
-'0  1  0  ~/viclo/viclo/settings.py
-'1  14  42  ~/viclo/viclo/settings.py
-'2  15  24  ~/viclo/viclo/settings.py
-'3  137  0  ~/viclo/viclo/settings.py
-'4  3  0  ~/viclo/guni.sh
-'5  14  52  ~/viclo/guni.sh
-'6  5  51  /etc/supervisor/conf.d/guni.conf
-'7  4  27  /etc/supervisor/conf.d/guni.conf
-'8  1  0  /etc/supervisor/conf.d/guni.conf
-'9  6  62  /etc/supervisor/conf.d/guni.conf
+'0  1  27  ~/viclo/vicloapp/models.py
+'1  1  0  ~/viclo/models.py
+'2  2  32  ~/viclo/vicloapp/models.py
+'3  1  0  ~/viclo/viclo/settings.py
+'4  126  14  ~/viclo/viclo/settings.py
+'5  14  42  ~/viclo/viclo/settings.py
+'6  15  24  ~/viclo/viclo/settings.py
+'7  138  0  ~/viclo/viclo/settings.py
+'8  3  0  ~/viclo/guni.sh
+'9  14  52  ~/viclo/guni.sh
 
 # Jumplist (newest first):
+-'  1  27  ~/viclo/vicloapp/models.py
+-'  1  0  ~/viclo/models.py
+-'  2  32  ~/viclo/vicloapp/models.py
 -'  1  0  ~/viclo/viclo/settings.py
+-'  126  14  ~/viclo/viclo/settings.py
 -'  14  42  ~/viclo/viclo/settings.py
 -'  15  24  ~/viclo/viclo/settings.py
--'  137  0  ~/viclo/viclo/settings.py
+-'  138  0  ~/viclo/viclo/settings.py
 -'  3  0  ~/viclo/guni.sh
 -'  1  0  ~/viclo/guni.sh
 -'  14  52  ~/viclo/guni.sh
@@ -151,15 +163,24 @@ $set
 -'  11  10  ~/viclo/guni.sh
 -'  6  35  ~/viclo/guni.sh
 -'  13  3  ~/viclo/guni.sh
--'  8  0  ~/viclo/guni.sh
--'  12  1  ~/viclo/guni.sh
 
 # History of marks within files (newest to oldest):
 
+> ~/viclo/vicloapp/models.py
+	"	1	27
+	^	1	28
+	.	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+
+> ~/viclo/models.py
+	"	1	0
+
 > ~/viclo/viclo/settings.py
 	"	1	0
-	^	14	43
-	.	14	19
+	^	126	15
+	.	126	15
 	+	125	5
 	+	14	18
 	+	15	23
@@ -167,6 +188,7 @@ $set
 	+	17	33
 	+	15	17
 	+	14	19
+	+	126	15
 
 > ~/viclo/guni.sh
 	"	3	0

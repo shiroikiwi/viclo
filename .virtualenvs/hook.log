@@ -80,3 +80,5 @@
 2012-07-23 18:36:13,472 DEBUG virtualenvwrapper.hook_loader Running post_activate hooks
 2012-07-23 18:36:13,477 DEBUG virtualenvwrapper.hook_loader Saving sourcable post_activate hooks to /tmp/virtualenvwrapper-post_activate-hook-KOEOJ6NIjP
 2012-07-23 18:36:13,480 DEBUG virtualenvwrapper.user_scripts post_activate
+2012-07-24 00:30:12,704 DEBUG virtualenvwrapper.hook_loader Running initialize hooks
+2012-07-24 00:30:12,746 DEBUG virtualenvwrapper.hook_loader Saving sourcable initialize hooks to /tmp/virtualenvwrapper-initialize-hook-FUDcxMTKAa

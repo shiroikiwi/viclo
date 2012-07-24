@@ -339,3 +339,130 @@ less logs/supervisor/logfile.log
 less logs/supervisor/error-logfile.log 
 less logs/guni.log 
 exit
+git status
+git add .
+cd viclo/
+workon viclo_env
+less guni.sh 
+./guni.sh > testing.txt
+ls
+rm -rv testing.txt 
+less guni.sh 
+gunicorn_django -w $NUM_WORKERS --bind=$ADDRESS   --log-level=debug   --log-file=$LOGFILE 2>>$LOGFILEgunicorn_django -w $NUM_WORKERS --bind=$ADDRESS   --log-level=debug \
+gunicorn_django -w $NUM_WORKERS --bind=$ADDRESS   --log-level=debug \
+cat guni.sh 
+gunicorn_django -w $NUM_WORKERS --bind=$ADDRESS   --log-level=debug gunicorn_django -w $2 --bind=0.0.0.0:8000   --log-level=debug \
+gunicorn_django -w 2 --bind=0.0.0.0.0:8000 --log-level=debug --log-file=/home/ubuntu/viclo/logs/guni.log 2>>/home/ubuntu/viclo/logs/guni.log
+less logs/guni.log 
+gunicorn_django -w 2 --bind=0.0.0.0:8000 --log-level=debug --log-file=/home/ubuntu/viclo/logs/guni.log 2>>/home/ubuntu/viclo/logs/guni.log
+less logs/guni.log 
+vi guni.sh 
+bash ./guni.sh 
+deactivate
+bash ./guni.sh 
+./guni.sh 
+cat logs/guni.log 
+./guni.sh 
+cat logs/guni.log 
+cat guni.sh 
+vi guni.sh 
+chmod +x guni.sh 
+bash guni.sh 
+less logs/guni.log 
+./guni.sh 
+less logs/guni.log 
+ls
+sudo supervisorctl reload
+sudo supervisorctl status
+supervisorctl start guni
+sudo supervisorctl status
+git status
+git add .
+git commit -m "Gunicorn, nginx, supervisor all set up"
+git push origin master
+ls
+workon viclo_env
+which pip
+apt-get install python-dev libmysqlclient-dev
+sudo apt-get install python-dev libmysqlclient-dev
+pip install MySQL-python
+which django
+yolk -l
+which django-admin.py
+pip install south
+yolk -l
+mysql_secure_installaion
+mysql_secure_installation
+history | grep install
+mysqladmin
+sudo aptitude install mysql-server
+mysql_secure_installation
+sudo mysqladmin -u root -p create viclo_db
+mysql
+mysql -u root -p
+pwd
+cd ..
+git add .
+git status
+git commit -m "installed MySQL, South, MySQL-python. created first database."
+git push origin master
+git status
+cd ..
+cd ubuntu/viclo/
+ls
+cd viclo/
+ls
+sudo vi settings.py
+cd ..
+python manage.py syncdb
+history | grep install
+less viclo/settings.py
+mysql
+mysql -u root -p
+sudo vi viclo/settings.py
+python manage.py syncdb
+sudo vi viclo/settings.py
+yolk -l
+sudo vi viclo/settings.py
+python manage.py syncdb
+mysql show databases;
+vi viclo/settings.py
+ls
+cd ..
+git add .
+git commit -a -m 'Configured South for database migrations'
+cd viclo/
+ls
+ls viclo/
+less viclo/settings.py
+ls
+python manage.py startapp viclo
+python manage.py startapp vicloapp
+ls
+ls viclo
+ls vicloapp/
+python manage.py schemamigration vicloapp --initial
+ls
+vi viclo/settings.py
+less viclo/settings.py
+python manage.py schemamigration vicloapp --initial
+python manage.py migrate vicloapp
+python manage.py schemamigration vicloapp --auto
+ls
+cd vicloapp/
+ls
+vi models.py
+python manage.py schemamigration vicloapp --auto
+cd ..
+python manage.py schemamigration vicloapp --auto
+./manage.py migrate vicloapp
+python manage.py migrate vicloapp
+ls
+mysql
+mysql -u root -p
+vi models.py
+vi vicloapp/models.py
+python manage.py schemamigration vicloapp --auto
+python manage.py migrate vicloapp
+mysql -u root -p
+exit
