@@ -54,21 +54,22 @@ $set
 	webapps/
 
 # File marks:
-'0  1  27  ~/viclo/vicloapp/models.py
-'1  1  0  ~/viclo/models.py
-'2  2  32  ~/viclo/vicloapp/models.py
-'3  1  0  ~/viclo/viclo/settings.py
-'4  126  14  ~/viclo/viclo/settings.py
-'5  14  42  ~/viclo/viclo/settings.py
-'6  15  24  ~/viclo/viclo/settings.py
-'7  138  0  ~/viclo/viclo/settings.py
-'8  3  0  ~/viclo/guni.sh
-'9  14  52  ~/viclo/guni.sh
+'0  2  20  ~/viclo/vicloapp/models.py
+'1  1  27  ~/viclo/vicloapp/models.py
+'2  1  0  ~/viclo/models.py
+'3  3  32  ~/viclo/vicloapp/models.py
+'4  1  0  ~/viclo/viclo/settings.py
+'5  126  14  ~/viclo/viclo/settings.py
+'6  14  42  ~/viclo/viclo/settings.py
+'7  15  24  ~/viclo/viclo/settings.py
+'8  138  0  ~/viclo/viclo/settings.py
+'9  3  0  ~/viclo/guni.sh
 
 # Jumplist (newest first):
--'  1  27  ~/viclo/vicloapp/models.py
+-'  2  20  ~/viclo/vicloapp/models.py
+-'  1  0  ~/viclo/vicloapp/models.py
 -'  1  0  ~/viclo/models.py
--'  2  32  ~/viclo/vicloapp/models.py
+-'  3  32  ~/viclo/vicloapp/models.py
 -'  1  0  ~/viclo/viclo/settings.py
 -'  126  14  ~/viclo/viclo/settings.py
 -'  14  42  ~/viclo/viclo/settings.py
@@ -167,12 +168,13 @@ $set
 # History of marks within files (newest to oldest):
 
 > ~/viclo/vicloapp/models.py
-	"	1	27
-	^	1	28
-	.	2	0
-	+	2	0
-	+	2	0
-	+	2	0
+	"	2	20
+	^	2	21
+	.	2	20
+	+	3	0
+	+	3	0
+	+	3	0
+	+	2	20
 
 > ~/viclo/models.py
 	"	1	0
